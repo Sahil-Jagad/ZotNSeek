@@ -7,7 +7,7 @@ This is the code for zotnseek
 ```bash
 # Install dependencies
 npm install
-npm i redux react-redux redux-thunk
+npm i react-router-dom redux react-redux redux-thunk
 
 # Run locally
 npm start
