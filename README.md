@@ -1,4 +1,4 @@
-# Personal Website
+# ZotnSeek
 
 This is the code for zotnseek
 
